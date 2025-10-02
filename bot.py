@@ -32,7 +32,7 @@ MAX_IMAGE_BYTES = 8 * 1024 * 1024  # 8 MB
 MAX_PIXELS = 25_000_000  # ~25 MP
 RATE_LIMIT_SEC = 20  # не чаще одного анализа в 20 сек на пользователя
 
-TOKEN = "8377634357:AAFhH06kmT6_8AKPCadKFlx8Jd63gbK4xcA"
+TOKEN = "8377634357:AAFhH06kmT6_8AKPCadKFl****"
 if not TOKEN:
     raise RuntimeError("Установите TELEGRAM_BOT_TOKEN в переменных окружения")
 
