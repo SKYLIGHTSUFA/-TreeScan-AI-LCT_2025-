@@ -9,7 +9,7 @@
 
 **AI-powered system for automated tree detection and health analysis**
 
-*Detect multiple trees with YOLOv9 • Analyze each tree individually • Get comprehensive health reports*
+* • Analyze each tree individually • Get comprehensive health reports*
 
 </div>
 
